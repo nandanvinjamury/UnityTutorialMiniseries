@@ -1,0 +1,9 @@
+Hey Guys,
+
+All of this content is organized as such: 
+
+Once a video releases, everything in that video's folder is what we have finished by the end of the video. If you want to follow along with the video, please take a look at the previous video's folder for that tutorial's content, that way you can follow along with the video. Thanks! 
+
+Additionally when using the content from these folders, you are agreeing to not sell or modify them for sale (you can modify as long as you are not monetizing). Thank you.
+
+- CPP Game Dev Club
